@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">592503067782-r2vl3k1qa42m1q7mhe4rfkmg44gqq8d1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">592503067782</string>
+    <string name="google_api_key" translatable="false">AIzaSyDEmdaTBoYfj9yepNTe2yiJDO49oKJdqxM</string>
+    <string name="google_app_id" translatable="false">1:592503067782:android:af306b892f3f3c0bacad07</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDEmdaTBoYfj9yepNTe2yiJDO49oKJdqxM</string>
+    <string name="google_storage_bucket" translatable="false">linuxapp-ddfae.appspot.com</string>
+    <string name="project_id" translatable="false">linuxapp-ddfae</string>
+</resources>
